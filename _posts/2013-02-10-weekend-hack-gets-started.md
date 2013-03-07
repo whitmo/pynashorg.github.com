@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Weekend Hacks
+title: Weekend Hacks 0
 author: Whit Morris
 comments: true
 ---
@@ -12,19 +12,19 @@ to let me work from right here in the Nashdiggity.  I'm one of those
 programmers who came to talking to the machine through trying to say
 things on the web. I built my first website in 1996. Just for fun,
 here's an early site I did both design and programming on:
-[Charlottesville Airport circa 1997](http://bit.ly/Z1QSwN)).  That fat stack ran a perl CGI
-backed by MSQL (no Y) on AIX. Quicktime panoramas and animated gifs were
-cutting edge back then.
+[Charlottesville Airport circa 1997](http://bit.ly/Z1QSwN)).  That fat
+stack ran a perl CGI backed by MSQL (no Y) on AIX. Quicktime panoramas
+and animated gifs were cutting edge back then.
 
-At that time, hacks were all I knew: photoshop effects and table layouts,
-duck tape and bailing wire.  I dug ungodly things out of the Camel book and put them right into production.
+At that time, hacks were all I knew: photoshop effects and table
+layouts, duck tape and bailing wire.  I dug ungodly things out of the
+Camel book and put them right into production.
 
-  Though I've come a long way since, I
-still appreciate a good hack.  Dirty or elegant, quick or involved,
-ugly or inspire, a hack is a heuristic or intuition based
-implementation that makes what previously was an impediment into a
-step, a fulcrum, a tool, an anvil, a parachute, an ax to make more
-hacks.
+Though I've come a long way since, I still appreciate a good hack.
+Dirty or elegant, quick or involved, ugly or inspire, a hack is a
+heuristic or intuition based implementation that makes what previously
+was an impediment into a step, a fulcrum, a tool, an anvil, a
+parachute, an ax to make more hacks.
 
 These days I do most of my hacking in python and I'm honored to be
 invited to contribute to the pynash blog.  My columns will
