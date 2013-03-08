@@ -69,6 +69,35 @@ Try it out by running the command.  You should get a prompt:
 
 Now we have a running cli, we can start populating it with code and testing it (as well as using pdb to explore our code).
 
+First we'll create some helper functionsin `sc.py` to encapsulate what [we did last time](http://pynash.org/2013/02/10/weekend-hack-gets-started.html).
+
+<script src="https://gist.github.com/whitmo/5117785.js"></script>
+
+Now our command will spit out a bunch of useful info:
+
+  $(hacknight) sc2s3 --debug urls ced262b670362c8fc4d307f0d20a3d48 whitmo
+
+The `--debug` flag will cause `cliff` to expose any uncaught errors as
+a traceback.
+
+The output looks like::
+
+<script src="https://gist.github.com/whitmo/5117852.js"></script>
+
+
+So now we have some visibility, and a way to execute in a sane
+fashion, let do some streaming.
+
+
+## Stream url
+
+Next we'll add a command to stream a url to a bucket.
+
+
+
+
+
+
   
 
 
